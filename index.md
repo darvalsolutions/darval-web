@@ -2,5 +2,5 @@
 
 Open Source Software company in Edinburgh, specializing in Machine Identy software development.
 
-See [EdgeCA](https://www.edgeca.org), our first open source product
+See [EdgeCA](https://edgeca.org), our first open source product
 
