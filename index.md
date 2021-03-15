@@ -1,2 +1,1 @@
-See [EdgeCA](https://edgeca.org), our first open source product
-
+**Darval Solutions Ltd** is a software company in Edinburgh, UK. 
